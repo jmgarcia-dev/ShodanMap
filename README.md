@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/jmgarcia-dev/smap"><img src="/static/smap-logo.png" alt="Smap logo"></a>
+  <a href="https://github.com/jmgarcia-dev/shodanmap"><img src="/static/smap-logo.png" alt="Smap logo"></a>
 </h1>
 
 <h4 align="center">passive Nmap like scanner built with shodan.io</h4>
@@ -39,7 +39,7 @@ Smap is a port scanner built with shodan.io's free API. It takes same command li
 You can download a pre-built binary from [here](https://github.com/s0md3v/Smap/releases) and use it right away.
 
 ### Manual
-`go install -v github.com/jmgarcia-dev/smap/cmd/smap@latest`
+`go install -v github.com/jmgarcia-dev/shodanmap/cmd/smap@latest`
 
 Confused or something not working? For more detailed instructions, [click here](https://github.com/s0md3v/Smap/wiki/FAQ#how-do-i-install-smap)
 ### AUR pacakge

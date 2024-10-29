@@ -1,4 +1,4 @@
-module github.com/jmgarcia-dev/smap
+module github.com/jmgarcia-dev/shodanmap
 
 go 1.20
 

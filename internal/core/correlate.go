@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	g "github.com/jmgarcia-dev/smap/internal/global"
+	g "github.com/jmgarcia-dev/shodanmap/internal/global"
 )
 
 var Probes []g.Contender

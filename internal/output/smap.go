@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	g "github.com/jmgarcia-dev/smap/internal/global"
+	g "github.com/jmgarcia-dev/shodanmap/internal/global"
 )
 
 var openedSmapFile *os.File

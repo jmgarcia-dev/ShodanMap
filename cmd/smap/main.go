@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jmgarcia-dev/smap/internal/core"
+	"github.com/jmgarcia-dev/shodanmap/internal/core"
 )
 
 func main() {

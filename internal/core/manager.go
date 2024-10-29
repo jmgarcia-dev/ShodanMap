@@ -13,9 +13,9 @@ import (
 
 	"encoding/json"
 
-	"github.com/jmgarcia-dev/smap/internal/db"
-	g "github.com/jmgarcia-dev/smap/internal/global"
-	o "github.com/jmgarcia-dev/smap/internal/output"
+	"github.com/jmgarcia-dev/shodanmap/internal/db"
+	g "github.com/jmgarcia-dev/shodanmap/internal/global"
+	o "github.com/jmgarcia-dev/shodanmap/internal/output"
 	"github.com/weppos/publicsuffix-go/publicsuffix"
 )
 

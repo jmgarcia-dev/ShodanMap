@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	g "github.com/jmgarcia-dev/smap/internal/global"
+	g "github.com/jmgarcia-dev/shodanmap/internal/global"
 )
 
 var openedPairFile *os.File
